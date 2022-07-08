@@ -2,5 +2,5 @@
 layout: slide
 title: "２枚目のスライドにようこそ！"
 ---
-message
+new message
 戻るには戻るボタンを使いましょう！
